@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.title {
+    font-size: 32px;
+}
+.sub_title {
+    font-weight: bold;
+}
